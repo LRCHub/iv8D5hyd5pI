@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "TOGE",
+  "base_artist": "AKASAKI",
+  "createdAt": "2025-12-11T10:11:22.457652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come Toge The R",
+      "artist": "Black Label Society",
+      "has_synced": true,
+      "path": "select/01_Come_Toge_The_R_Black_Label_Society.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Can Be Toge The R",
+      "artist": "Jefferson Airplane",
+      "has_synced": false,
+      "path": "select/02_We_Can_Be_Toge_The_R_Jefferson_Airplane.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "we Gotta Live Toge The R",
+      "artist": "Jimi Hendrix",
+      "has_synced": true,
+      "path": "select/03_we_Gotta_Live_Toge_The_R_Jimi_Hendrix.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are Never Getting Back Toge",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/04_We_Are_Never_Getting_Back_Toge_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hari To Toge",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_Hari_To_Toge_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pail Toge Kau",
+      "artist": "Soham Pathak",
+      "has_synced": false,
+      "path": "select/06_Pail_Toge_Kau_Soham_Pathak.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Toge",
+      "artist": "Shinra-Bansho",
+      "has_synced": true,
+      "path": "select/07_Toge_Shinra-Bansho.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You'd Better Get Yourself Toge",
+      "artist": "Gigolo Aunts",
+      "has_synced": false,
+      "path": "select/08_You'd_Better_Get_Yourself_Toge_Gigolo_Aunts.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Toge to neko",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/09_Toge_to_neko_SID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Toge Toge Sadistic (5nin Version)",
+      "artist": "Enormita",
+      "has_synced": true,
+      "path": "select/10_Toge_Toge_Sadistic_(5nin_Version)_Enormita.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are Never Getting Back Toge",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_We_Are_Never_Getting_Back_Toge_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rap do Toge Inumaki: Fala Amaldiçoada",
+      "artist": "LexClash",
+      "has_synced": true,
+      "path": "select/12_Rap_do_Toge_Inumaki__Fala_Amaldiçoada_LexClash.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Toge",
+      "artist": "Sadie",
+      "has_synced": true,
+      "path": "select/13_Toge_Sadie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "toge",
+      "artist": "Mokyo",
+      "has_synced": true,
+      "path": "select/14_toge_Mokyo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Toge",
+      "artist": "Mika Arisaka",
+      "has_synced": false,
+      "path": "select/15_Toge_Mika_Arisaka.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hatsukoi no Toge",
+      "artist": "Pyxis",
+      "has_synced": true,
+      "path": "select/16_Hatsukoi_no_Toge_Pyxis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOGE",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_TOGE_AKASAKI.txt"
+    }
+  ]
+}
